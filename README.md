@@ -1,5 +1,5 @@
 # vertx-web-examples
-Trying our Vert.x 
+Trying out Vert.x 
 
 #To run the examples in Intellij
 - Import the project in Intellij
